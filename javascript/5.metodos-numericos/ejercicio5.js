@@ -27,3 +27,9 @@ console.log(
   floorPesoKg,
   maxValAddOne
 );
+
+int numeroWhile = 0;
+        while(numeroWhile<3) {
+            System.out.println(numeroWhile);
+            numeroWhile += 1;
+        }
